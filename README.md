@@ -6,7 +6,7 @@ Studying, practising, and learning:
 - Software development principles and practices: SOLID, Test-Driven Development, Transformation Priority Premise, clean code, pair-programming
 - Testing: test automation, manual
 - JavaScript runtime: Node.js
-- JS Libraries/Frameworks: React, Next.js
+- JS Libraries/Frameworks: React, Next.js, styled components
 - APIs: REST, GraphQL, Apollo, Yoga
 - Browser fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
