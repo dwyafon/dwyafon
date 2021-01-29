@@ -14,7 +14,7 @@ Studying, practising, and learning:
 - CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind, responsive design
 - Databases: PostgreSQL, MongoDB, Fauna, Airtable
 - Version control: Git, GitHub
-- Agile methodology: Scrum
+- Agile methodology: Scrum, XP
 - CI/CD: CircleCI
 - Containerization: Docker
 - Cloud: AWS
