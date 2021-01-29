@@ -9,7 +9,7 @@ Studying, practising, and learning:
 - JavaScript runtime: Node.js
 - JS Libraries/Frameworks: React, Next.js, styled components
 - APIs: REST, GraphQL, Apollo, Yoga
-- Browser fundamentals: DOM, execution context
+- Browser and JS engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
 - CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind
 - Databases: PostgreSQL, MongoDB, Fauna, Airtable
