@@ -1,6 +1,8 @@
 ## Aspiring Software Engineer and Tester
 
-Studying, practising, and learning:
+A lifelong and non-stop learner, I seek a greater abundance in my toolbox for solving problems.
+
+My studying-practising-learning stack:
 
 - Programming languages: JavaScript, TypeScript, Java, Python, Ruby, Elixir, Elm
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
