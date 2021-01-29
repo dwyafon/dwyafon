@@ -3,13 +3,13 @@
 Studying, practising, and learning:
 
 - Programming languages: JavaScript, TypeScript, Java, Python, Ruby, Elixir, Elm
-- Software development principles and practices: SOLID, Test-Driven Development, Transformation Priority Premise, clean code, pair-programming
+- Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
 - Testing: test automation, manual
 - Command line: Unix
 - JavaScript runtime: Node.js
-- JS Libraries/Frameworks: React, Next.js, styled components
+- JS libraries + frameworks: React, Next.js, styled components
 - APIs: REST, GraphQL, Apollo, Yoga
-- Browser and JS engine fundamentals: DOM, execution context
+- Browser + JS engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
 - CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind
 - Databases: PostgreSQL, MongoDB, Fauna, Airtable
