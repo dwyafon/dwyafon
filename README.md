@@ -11,7 +11,7 @@ Studying, practising, and learning:
 - APIs: REST, GraphQL, Apollo, Yoga
 - Browser + JS engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
-- CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind
+- CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind, responsive design
 - Databases: PostgreSQL, MongoDB, Fauna, Airtable
 - Version control: Git, GitHub
 - Agile methodology: Scrum
