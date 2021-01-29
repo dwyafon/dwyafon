@@ -5,6 +5,7 @@ Studying, practising, and learning:
 - Programming languages: JavaScript, TypeScript, Java, Python, Ruby, Elixir, Elm
 - Software development principles and practices: SOLID, Test-Driven Development, Transformation Priority Premise, clean code, pair-programming
 - Testing: test automation, manual
+- Command line: Unix
 - JavaScript runtime: Node.js
 - JS Libraries/Frameworks: React, Next.js, styled components
 - APIs: REST, GraphQL, Apollo, Yoga
