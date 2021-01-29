@@ -17,6 +17,7 @@ Studying, practising, and learning:
 - Agile methodology: Scrum
 - CI/CD: CircleCI
 - Containerization: Docker
+- Cloud: AWS
 - Other architecture: Jamstack, serverless
 
 
