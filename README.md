@@ -9,7 +9,7 @@ My studying-practising-learning stack:
 - Testing: test automation, manual
 - Command line: Unix
 - JavaScript runtime: Node.js
-- JavaScript libraries + frameworks: React, Next.js, styled components
+- JavaScript libraries + frameworks: React, Next.js, styled components, joi
 - APIs: REST, GraphQL, Apollo, Yoga
 - Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
