@@ -11,7 +11,7 @@ My studying-practising-learning stack:
 - JavaScript runtime: Node.js
 - JavaScript libraries + frameworks: React, Next.js, styled components
 - APIs: REST, GraphQL, Apollo, Yoga
-- Browser + JS engine fundamentals: DOM, execution context
+- Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
 - CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind, responsive design
 - Databases: PostgreSQL, MongoDB, Fauna, Airtable
