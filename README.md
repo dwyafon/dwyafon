@@ -1,6 +1,6 @@
 ## Aspiring Software Engineer and Tester
 
-A lifelong and nonstop learner, I seek a deeper abundance in my toolbox for handling tradeoffs and solving problems.
+A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
 My (continuous) studying-practising-learning stack:
 
