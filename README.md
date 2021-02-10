@@ -4,7 +4,7 @@ A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and to
 
 My (continuous) studying-practising-learning stack:
 
-- Programming languages: JavaScript, TypeScript, Java, Ruby, C#, Python, Elixir, Elm
+- Programming languages: JavaScript, TypeScript, Java, Ruby, C#, Python, Elixir
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
 - Testing: test automation, manual
 - Command line: Unix
