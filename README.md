@@ -1,4 +1,4 @@
-## Aspiring Software Engineer and Tester
+## Junior Front-End Engineer
 
 A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
@@ -6,20 +6,20 @@ My (continuous) studying-practising-learning stack:
 
 - Programming languages: JavaScript, TypeScript, Java, Ruby, C#, Python, Elixir
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
-- Testing: test automation, manual
+- Testing: Jest, Mocha, Chai, Testing Library
 - Command line: Unix
-- JavaScript runtime: Node.js
+- Server: Node.js
 - JavaScript libraries + frameworks: React, Next.js, styled components, joi
 - APIs: REST, GraphQL, Apollo, Yoga
 - Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
-- CSS: Flexbox, Grid, modules, variables, Bootstrap, Tailwind, responsive design
-- Databases: PostgreSQL, MongoDB, Fauna, Airtable
+- CSS: Flexbox, Grid, modules, Bootstrap, Tailwind, responsive design
+- Databases: PostgreSQL, MongoDB, Fauna
 - Version control: Git, GitHub
 - Agile methodology: Scrum, XP
 - CI/CD: CircleCI
 - Containerization: Docker
-- Cloud: AWS
+- Cloud: AWS, Azure
 - Other architecture: Jamstack, serverless
 
 
