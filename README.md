@@ -9,7 +9,7 @@ My (continuous) studying-practising-learning stack:
 - Testing: Jest, Mocha, Chai, Testing Library
 - Command line: Unix
 - Server: Node.js
-- JavaScript libraries + frameworks: React, Next.js, styled components, joi
+- JavaScript libraries + frameworks: React, Next.js, styled components, joi, Geist UI
 - APIs: REST, GraphQL, Apollo, Yoga
 - Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
