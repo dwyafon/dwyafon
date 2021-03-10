@@ -1,4 +1,4 @@
-## Junior Front-End Engineer
+## Junior Developer
 
 A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
