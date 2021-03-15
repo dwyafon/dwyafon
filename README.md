@@ -1,10 +1,10 @@
-## Junior Developer
+## Junior Engineer
 
 A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
 My (continuous) studying-practising-learning stack:
 
-- Programming languages: JavaScript, TypeScript, Java, Ruby, C#, Python, Elixir
+- Programming languages: JavaScript, TypeScript, Java, Ruby, C#, Elixir
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
 - Testing: Jest, Mocha, Chai, Testing Library
 - Command line: Unix
@@ -14,10 +14,10 @@ My (continuous) studying-practising-learning stack:
 - Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
 - CSS: Flexbox, Grid, modules, Bootstrap, Tailwind, responsive design
-- Databases: PostgreSQL, MongoDB, Fauna
+- Databases and ORMs: PostgreSQL, MongoDB, Fauna, Prisma
 - Version control: Git, GitHub
 - Agile methodology: Scrum, XP
-- CI/CD: CircleCI
+- CI/CD: CircleCI, Jenkins
 - Containerization: Docker
 - Cloud: AWS, Azure
 - Other architecture: Jamstack, serverless
