@@ -17,7 +17,7 @@ My (continuous) studying-practising-learning stack:
 - Databases and ORMs: PostgreSQL, MongoDB, Fauna, Prisma
 - Version control: Git, GitHub
 - Agile methodology: Scrum, XP
-- CI/CD: CircleCI, Jenkins
+- CI/CD: GitHub Actions, Circle CI, Jenkins
 - Containerization: Docker
 - Cloud: AWS, Azure
 - Other architecture: Jamstack, serverless
