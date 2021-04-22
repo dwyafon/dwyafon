@@ -14,12 +14,11 @@ My (continuous) studying-practising-learning stack:
 - Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
 - CSS: Flexbox, Grid, modules, Bootstrap, Tailwind, responsive design
-- Databases and ORMs: PostgreSQL, MongoDB, Fauna, Prisma
+- Databases and ORMs: PostgreSQL, MongoDB, Prisma, Mongoose
 - Version control: Git, GitHub
 - Agile methodology: Scrum, XP
-- CI/CD: GitHub Actions, Circle CI, Jenkins
+- CI/CD: GitHub Actions, Circle CI
 - Containerization: Docker
-- Cloud: AWS, Azure
 - Other architecture: Jamstack, serverless
 
 
