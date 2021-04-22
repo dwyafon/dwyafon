@@ -4,7 +4,7 @@ A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and to
 
 My (continuous) studying-practising-learning stack:
 
-- Programming languages: JavaScript, TypeScript, Python, C#, 
+- Programming languages: JavaScript, TypeScript, Python, C#
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
 - Testing: Jest, Mocha, Chai, Testing Library
 - Command line: Unix
