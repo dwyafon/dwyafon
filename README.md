@@ -1,13 +1,13 @@
 A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
-My (continuous) studying-practising-learning stack:
+My learning stack:
 
-- Programming languages: JavaScript, TypeScript, Python, C#, Clojure
+- Programming languages: JavaScript, TypeScript, Python, Java, C#, Clojure
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
-- Testing: Jest, Mocha, Chai, Testing Library
+- Testing: Jest, Mocha, Chai, Testing Library, React Testing Library
 - Command line: Unix
-- Server: Node.js
-- JavaScript libraries + frameworks: React, Next.js, styled components, joi, Geist UI
+- Server: Node.js, Express
+- Other libraries + frameworks: React, Next.js, styled components, joi, Geist UI
 - APIs: REST, GraphQL, Apollo, Yoga
 - Browser + JavaScript engine fundamentals: DOM, execution context
 - HTML: accessibility, security, seo
