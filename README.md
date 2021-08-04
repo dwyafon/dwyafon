@@ -2,7 +2,7 @@ A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and to
 
 My learning stack:
 
-- Programming languages: JavaScript, TypeScript, Python, Java, C#, Clojure, Rust
+- Programming languages: JavaScript, TypeScript, Python, Java, C#, Clojure, Elixir, Rust, Go
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
 - Testing: Jest, Mocha, Chai, Testing Library, React Testing Library
 - Command line: Unix
