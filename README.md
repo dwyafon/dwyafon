@@ -1,6 +1,6 @@
 A lifelong learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
-My learning stack:
+<!-- My learning stack:
 
 - Programming languages: JavaScript, TypeScript, Python, Java, C#, Clojure, Elixir, Rust, Go
 - Software development principles + practices: SOLID, TDD, TPP, clean code, debugging, refactoring, pair-programming
@@ -17,7 +17,7 @@ My learning stack:
 - Agile methodology: Scrum, XP
 - CI/CD: GitHub Actions, Circle CI
 - Containerization: Docker
-- Other architecture: Jamstack, serverless
+- Other architecture: Jamstack, serverless -->
 
 
 <!--
