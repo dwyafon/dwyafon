@@ -1,4 +1,4 @@
-A lifelong and nonstop learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
+A lifelong learner, I seek a deeper abundance in my knowledge and toolbox for handling tradeoffs and solving problems.
 
 My learning stack:
 
